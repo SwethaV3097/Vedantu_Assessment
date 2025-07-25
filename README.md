@@ -13,7 +13,7 @@ The tool supports multiple Class 12 Physics topics such as Electric Charges and 
 4. Packaging: Google Colab, Python 3
 5. Preview: GIF via ffmpeg, Audio/Video embedding using IPython
 
-**Architecture**
+**Architecture & Gif In the Code**
 
 
 
